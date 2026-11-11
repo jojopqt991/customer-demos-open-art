@@ -1,0 +1,5 @@
+tools/
+inputs/personas/*.png
+README.md
+.env
+.env.*
